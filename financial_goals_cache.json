@@ -1,0 +1,37 @@
+[
+    {
+        "name": "단기 저축 목표",
+        "years": 5,
+        "target": 100000000,
+        "priority": 2,
+        "necessity": "필수"
+    },
+    {
+        "name": "은퇴 자금 마련",
+        "years": 35,
+        "target": 496529103,
+        "priority": 1,
+        "necessity": "필수"
+    },
+    {
+        "name": "여행 자금",
+        "years": 1,
+        "target": 20000000,
+        "priority": 3,
+        "necessity": "선택"
+    },
+    {
+        "name": "자녀 교육 자금",
+        "years": 10,
+        "target": 300000000,
+        "priority": 4,
+        "necessity": "선택"
+    },
+    {
+        "name": "부동산 투자 자금",
+        "years": 5,
+        "target": 200000000,
+        "priority": 5,
+        "necessity": "선택"
+    }
+]
